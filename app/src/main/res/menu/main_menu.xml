@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="HOME"
+        ></item>
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="DASHBOARD"
+        ></item>
+
+    <item
+        android:id="@+id/navigation"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="NAVIGATION"
+        ></item>
+
+</menu>
